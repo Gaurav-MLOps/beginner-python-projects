@@ -1,0 +1,18 @@
+import random
+
+numbers = (1, 2, 3, 4, 5, 6,)
+while True:
+
+    ask = input("Do you want to roll the dice, y/n?: ").lower()
+    if ask == "y":
+        random_num1 = random.choice(numbers)
+        random_num2 = random.choice(numbers)
+        print(f"{random_num1}, {random_num2}")
+
+    elif ask == "n":
+        print("Thank you for playing!")
+        break
+
+    else:
+        print("INVALID!")
+

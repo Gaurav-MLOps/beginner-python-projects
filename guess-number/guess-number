@@ -1,0 +1,19 @@
+import random
+
+guess_num = random.randint(1, 100)
+
+while True:
+    try: 
+        user_input = int(input("Guess the number btw 1 and 100: "))
+        if user_input > guess_num:
+            print("Too High!")
+
+        elif user_input < guess_num:
+            print("Too Low!")
+
+        elif user_input == guess_num:
+            print("You guessed it correct!")
+            break
+
+    except ValueError:
+        print("Invalid! Please enter a number.")
