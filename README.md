@@ -27,6 +27,21 @@ These helped me practice loops, conditionals, user input, and simple logic.
 ### Python Calculator
 A beginner calculator that performs addition, subtraction, multiplication, and division between two numbers.
 
+# ⚖️ Weight Converter
+
+A simple Python project that converts weight between **Kilograms (Kg)** and **Pounds (Lb)**.  
+This project is part of my **Beginner Python Projects** series.
+
+## 📌 Features
+- Convert **Kg → Lb**
+- Convert **Lb → Kg**
+- Input validation for correct units
+
+# 📧 Email Slicer
+
+A simple Python program that extracts the **username** and **domain** from an email address.  
+This project is part of my **Beginner Python Projects** series.
+
 ---
 
 ## How to Run
