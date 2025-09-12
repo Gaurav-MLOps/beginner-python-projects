@@ -1,30 +1,30 @@
-# Beginner Python Projects
+# Beginner Python Projects 🎯
 
 A collection of small projects I built while learning the basics of Python.  
 These helped me practice loops, conditionals, user input, and simple logic.
 
 ---
 
-## Projects
+## 📂 Projects
 
-### Dice Rolling Game
+### 🎲 Dice Rolling Game
 - Asks the user if they want to roll the dice.  
 - Generates two random numbers (like rolling two dice).  
 - Keeps looping until the user says no.  
 
-### Number Guessing Game
+### 🔢 Number Guessing Game
 - Generates a random number between 1 and 100.  
 - User tries to guess it.  
 - Gives hints: "Too High" / "Too Low".  
 - Handles invalid inputs (like letters).  
 
-### Rock, Paper, Scissors
+### ✂️ Rock, Paper, Scissors
 - Classic game: user plays against the computer.  
 - User enters `r`, `p`, or `s`.  
 - Computer randomly picks a move.  
-- Decides winner, loser, or tie.
+- Decides winner, loser, or tie.  
 
-### Python Calculator
+### 🧮 Python Calculator
 A beginner calculator that performs addition, subtraction, multiplication, and division between two numbers.
 
 # ⚖️ Weight Converter
