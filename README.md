@@ -22,7 +22,10 @@ These helped me practice loops, conditionals, user input, and simple logic.
 - Classic game: user plays against the computer.  
 - User enters `r`, `p`, or `s`.  
 - Computer randomly picks a move.  
-- Decides winner, loser, or tie.  
+- Decides winner, loser, or tie.
+
+### Python Calculator
+A beginner calculator that performs addition, subtraction, multiplication, and division between two numbers.
 
 ---
 
