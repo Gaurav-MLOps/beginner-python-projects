@@ -42,6 +42,27 @@ This project is part of my **Beginner Python Projects** series.
 A simple Python program that extracts the **username** and **domain** from an email address.  
 This project is part of my **Beginner Python Projects** series.
 
+# 🧠 Python Quiz Game  
+
+## 📌 Description  
+This is a simple **multiple-choice quiz game** built in Python.  
+The program asks the user 10 general knowledge questions, each with four options (A, B, C, D).  
+Users enter their answers, and the program immediately tells them if they are correct.  
+
+At the end of the quiz, it shows:  
+- The correct answers  
+- The user's guesses  
+- The final score in percentage  
+
+---
+
+## 🚀 Features  
+- 10 multiple-choice questions  
+- Instant feedback after each answer  
+- Shows all correct answers vs. user guesses at the end  
+- Calculates score as a percentage  
+- Beginner-friendly Python project  
+
 ---
 
 ## How to Run
