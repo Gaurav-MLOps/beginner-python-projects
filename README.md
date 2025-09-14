@@ -38,9 +38,13 @@ This project is part of my **Beginner Python Projects** series.
 - Input validation for correct units
 
 ## 6. Email Slicer
+ 
+A simple Python script that **extracts the username and domain** from any valid email address.  
 
-A simple Python program that extracts the **username** and **domain** from an email address.  
-This project is part of my **Beginner Python Projects** series.
+### Features
+- Accepts any standard email address as input  
+- Separates and displays the username and domain  
+- Simple command-line interface
 
 ## 7. Python Quiz Game  
 
@@ -59,11 +63,27 @@ At the end of the quiz, it shows:
 - Instant feedback after each answer  
 - Shows all correct answers vs. user guesses at the end  
 - Calculates score as a percentage  
-- Beginner-friendly Python project  
+- Beginner-friendly Python project
+
+## 💳 Credit Card Validator
+
+A simple Python script to **check the validity of a credit card number** using the **Luhn Algorithm**.  
+The program handles credit card numbers with or without spaces or dashes.  
 
 ---
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Gaurav-MLOps/beginner-python-projects.git
+### 🚀 Features
+- Validates credit card numbers using the Luhn Algorithm  
+- Supports input with spaces or dashes  
+- Simple command-line interface  
+
+---
+
+## 📦 Installation
+1. Make sure you have Python installed (3.x recommended).  
+2. Clone the repository or download the script:  
+```bash
+git clone https://github.com/Gaurav-MLOps/beginner-python-projects.git
+cd beginner_python_projects
+
+
