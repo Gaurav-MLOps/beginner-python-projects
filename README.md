@@ -32,7 +32,7 @@ A beginner calculator that performs addition, subtraction, multiplication, and d
 A simple Python project that converts weight between **Kilograms (Kg)** and **Pounds (Lb)**.  
 This project is part of my **Beginner Python Projects** series.
 
-#### Features
+### Features
 - Convert **Kg → Lb**
 - Convert **Lb → Kg**
 - Input validation for correct units
@@ -54,7 +54,7 @@ At the end of the quiz, it shows:
 - The user's guesses  
 - The final score in percentage  
 
-#### Features  
+### Features  
 - 10 multiple-choice questions  
 - Instant feedback after each answer  
 - Shows all correct answers vs. user guesses at the end  
