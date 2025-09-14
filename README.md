@@ -1,12 +1,10 @@
 # Beginner Python Projects
-
 A collection of small projects I built while learning the basics of Python.  
 These helped me practice loops, conditionals, user input, and simple logic.
 
 ---
 
 ## 1. Dice Rolling Game
-
 Simulates rolling two dice. The user can roll as many times as they like and see the results of each roll.  
 
 ### Features:  
@@ -17,7 +15,6 @@ Simulates rolling two dice. The user can roll as many times as they like and see
 ---
 
 ## 2. Number Guessing Game
-
 A fun guessing game where the computer picks a random number, and the user tries to guess it. The game provides helpful hints along the way.  
 
 ## Features:  
@@ -29,7 +26,6 @@ A fun guessing game where the computer picks a random number, and the user tries
 ---
 
 ## 3. Rock, Paper, Scissors
-
 The classic game against the computer. Users select their move and try to beat the computer.  
 
 ### Features: 
@@ -41,7 +37,6 @@ The classic game against the computer. Users select their move and try to beat t
 ---
 
 ## 4. Python Calculator
-
 A Python script that performs **basic arithmetic operations**: addition, subtraction, multiplication, and division.  
 It takes user input for the operator and numbers, and outputs the rounded result.  
 
@@ -54,7 +49,6 @@ It takes user input for the operator and numbers, and outputs the rounded result
 ---
 
 ## 5. Weight Converter
-
 A simple Python project that converts weight between **Kilograms (Kg)** and **Pounds (Lb)**.  
 This project is part of my **Beginner Python Projects** series.
 
@@ -66,7 +60,6 @@ This project is part of my **Beginner Python Projects** series.
 ---
 
 ## 6. Email Slicer
- 
 A simple Python script that **extracts the username and domain** from any valid email address.  
 
 ### Features:
@@ -77,7 +70,6 @@ A simple Python script that **extracts the username and domain** from any valid 
 ---
 
 ## 7. Python Quiz Game
-
 This is a simple **multiple-choice quiz game** built in Python.  
 The program asks the user 10 general knowledge questions, each with four options (A, B, C, D).  
 Users enter their answers, and the program immediately tells them if they are correct.    
@@ -91,7 +83,6 @@ Users enter their answers, and the program immediately tells them if they are co
 ---
 
 ## Credit Card Validator
-
 A simple Python script to **check the validity of a credit card number** using the **Luhn Algorithm**.  
 The program handles credit card numbers with or without spaces or dashes.  
 
@@ -102,7 +93,7 @@ The program handles credit card numbers with or without spaces or dashes.
 
 ---
 
-## 📦 Installation
+### 📦 Installation
 1. Make sure you have Python installed (3.x recommended).  
 2. Clone the repository or download the script:  
 ```bash
