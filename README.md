@@ -25,7 +25,15 @@ These helped me practice loops, conditionals, user input, and simple logic.
 - Decides winner, loser, or tie.  
 
 ## 4. Python Calculator
-A beginner calculator that performs addition, subtraction, multiplication, and division between two numbers.
+
+A Python script that performs **basic arithmetic operations**: addition, subtraction, multiplication, and division.  
+It takes user input for the operator and numbers, and outputs the rounded result.  
+
+### Features
+- Supports `+`, `-`, `*`, and `/` operations  
+- Accepts decimal numbers as input  
+- Rounds the result to the nearest integer  
+- Simple command-line interface 
 
 ## 5. Weight Converter
 
@@ -65,14 +73,12 @@ At the end of the quiz, it shows:
 - Calculates score as a percentage  
 - Beginner-friendly Python project
 
-## 💳 Credit Card Validator
+## Credit Card Validator
 
 A simple Python script to **check the validity of a credit card number** using the **Luhn Algorithm**.  
 The program handles credit card numbers with or without spaces or dashes.  
 
----
-
-### 🚀 Features
+### Features
 - Validates credit card numbers using the Luhn Algorithm  
 - Supports input with spaces or dashes  
 - Simple command-line interface  
