@@ -350,3 +350,38 @@ rectangle.height = 6
 
 del (rectangle.width) 
 del (rectangle.height) 
+
+
+
+
+
+
+
+
+
+
+
+
+class Student:
+
+    graduating_year = 2025  # <------class variable
+    num_students = 0
+
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+        Student.num_students += 1   #to add number of students automatically
+
+
+student1 = Student("Patrik", 18)
+student2 = Student("spongebob", 30)
+student3 = Student("Joe", 20)
+student4 = Student("Sandy", 27)
+
+print(f"My graduating class of {Student.graduating_year} has {Student.num_students} students")
+print(student1.name)
+print(student2.name)
+print(student3.name)
+print(student4.name)
+
+
