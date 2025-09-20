@@ -439,3 +439,73 @@ print(f"Fisrt one is {car1.color} {car1.model} {car1.year} which is {car1.for_sa
 print(f"Second one is {car2.color} {car2.model} {car2.year} which is {car2.for_sale}")
 print(f"Third one is {car3.color} {car3.model} {car3.year} which is {car3.for_sale}")
 print(f"Fourth one is {car4.color} {car4.model} {car4.year} which is {car4.for_sale}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class Animal:
+    def __init__(self, name):
+        self.name = name
+        self.is_alive = True
+
+    def eat(self):
+        print(f"{self.name} is eating")
+
+    def sleep(self):
+        print(f"{self.name} is sleeping")
+
+class Dog(Animal):
+    def speak(self):
+        print("WOOF!")
+
+class Cat(Animal):
+    def speak(self):
+        print("MEOW!")
+
+class Mouse(Animal):
+    def speak(self):
+        print("SQUEEK!")
+
+dog = Dog("Scooby")
+cat = Cat("Garfield")
+mouse = Mouse("Micky")
+
+print(dog.name)
+print(dog.is_alive)
+dog.eat()
+dog.sleep()
+dog.speak()
+
+print()
+
+print(cat.name)
+print(cat.is_alive)
+cat.eat()
+cat.sleep()
+cat.speak()
+
+print()
+
+print(mouse.name)
+print(mouse.is_alive)
+mouse.eat()
+mouse.sleep()
+mouse.speak()
+
+
+
