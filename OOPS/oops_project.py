@@ -393,22 +393,6 @@ print(student4.name)
 
 
 
-class Student:
-
-    graduating_year = 2024  # <------class variable
-
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
-
-
-student1 = Student("Patrik", 18)
-student2 = Student("spongebob", 30)
-
-print(student1.name)
-print(student1.age)
-print(student1.graduating_year) 
-
 
 
 
