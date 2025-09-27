@@ -417,28 +417,6 @@ print(student1.graduating_year)
 
 
 
-class Car:
-
-    num_of_cars = 0 
-
-    def __init__(self, model, year, color, for_sale):
-        self.model = model
-        self.year = year
-        self.color = color
-        self.for_sale = for_sale
-        Car.num_of_cars += 1
-
-car1 = Car("Corvet", 2024, "Yellow", "For Sale")
-car2 = Car("Mustang", 2020, "Red", "Not For Sale")
-car3 = Car("BMW", 2025, "Black", "Out of Stock")
-car4 = Car("Volvo", 2018, "White", "Currently not Available")
-
-
-print(f"I have {Car.num_of_cars} cars")
-print(f"Fisrt one is {car1.color} {car1.model} {car1.year} which is {car1.for_sale}")
-print(f"Second one is {car2.color} {car2.model} {car2.year} which is {car2.for_sale}")
-print(f"Third one is {car3.color} {car3.model} {car3.year} which is {car3.for_sale}")
-print(f"Fourth one is {car4.color} {car4.model} {car4.year} which is {car4.for_sale}")
 
 
 
