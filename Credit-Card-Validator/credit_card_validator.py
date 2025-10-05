@@ -24,4 +24,3 @@ if total % 10 == 0:
 
 else:
     print("INVALED")
-    
